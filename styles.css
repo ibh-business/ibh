@@ -2,7 +2,7 @@
 :root{--gold:#B88913;--purple:#5a1e9e;--ink:#ffffff;--muted:#b9b9b9;--surface:#111114;--card:#17161d;--border:#2a2933}
 *{box-sizing:border-box}
 html,body{margin:0}
-body{font-family: 'Cairo','Noto Kufi Arabic','Tajawal',system-ui,sans-serif;
+body{font-family:'Noto Kufi Arabic','Cairo','Almarai','Tajawal',system-ui,Segoe UI,Roboto,Arial,sans-serif;background:#0b0a10;color:var(--ink);direction:rtl;line-height:1.8}
 }
 ink);direction:rtl;line-height:1.8}
 a{text-decoration:none;color:var(--ink)}
